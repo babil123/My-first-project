@@ -8,11 +8,12 @@ It’s a simple Python-based project I created to learn how to use Git, GitHub, 
 ## 📁 Project Structure
 
 My-first-project/
-├── util/
-│ ├── helper.py
-│ ├── utils.py
-│ └── init.py
-└── hello.py
+├── hello.py
+├── utils.py
+├── quote_generator.py
+├── README.md
+└── .git/               ← (hidden folder used by Git)
+
 
 
 ---
@@ -35,11 +36,9 @@ My-first-project/
 
 📝 Future Plans
 
-Add more Python scripts under the util/ folder
-
-Explore more Git features like branching, merging, and GitHub Actions
-
-Build a small CLI tool or automation project next
+- Add more Python scripts under the util/ folder
+- Explore more Git features like branching, merging, and GitHub Actions
+- Build a small CLI tool or automation project next
 
 💬 Author
 
